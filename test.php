@@ -9,8 +9,7 @@ asdfsdf
 gggg
 hhh
 'tttt'
-gggg
-
+print_r('123');
 nnnn
 
 echo();
